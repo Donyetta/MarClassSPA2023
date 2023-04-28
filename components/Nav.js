@@ -18,5 +18,3 @@ export default links => html`
     </ul>
   </nav>
 `;
-
-["a tag Home", "a tag Bio", "a tag Pizza", "a tag Order"];
